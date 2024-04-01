@@ -1,0 +1,12 @@
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\bin\Debug\net8.0\WebApi.Model.deps.json
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\bin\Debug\net8.0\WebApi.Model.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\bin\Debug\net8.0\WebApi.Model.pdb
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.csproj.AssemblyReference.cache
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.AssemblyInfoInputs.cache
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.AssemblyInfo.cs
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.csproj.CoreCompileInputs.cache
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\refint\WebApi.Model.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\WebApi.Model.pdb
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Model\obj\Debug\net8.0\ref\WebApi.Model.dll

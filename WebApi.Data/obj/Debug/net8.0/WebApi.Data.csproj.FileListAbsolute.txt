@@ -1,0 +1,15 @@
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\bin\Debug\net8.0\WebApi.Data.deps.json
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\bin\Debug\net8.0\WebApi.Data.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\bin\Debug\net8.0\WebApi.Data.pdb
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\bin\Debug\net8.0\WebApi.Model.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\bin\Debug\net8.0\WebApi.Model.pdb
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.csproj.AssemblyReference.cache
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.AssemblyInfoInputs.cache
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.AssemblyInfo.cs
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.csproj.CoreCompileInputs.cache
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.csproj.CopyComplete
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\refint\WebApi.Data.dll
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\WebApi.Data.pdb
+C:\Users\javi1\RiderProjects\WebApi\WebApi.Data\obj\Debug\net8.0\ref\WebApi.Data.dll
